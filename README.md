@@ -1,5 +1,5 @@
 # Test1
 Learning the Github basic
 # Provide input
-a = input(int("Enter a number:"));
+a = int(input("Enter the number:"));
 Print("The enterd number is:", a)";
